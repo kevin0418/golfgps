@@ -1,5 +1,3 @@
-pysqlite3==0.5.4 
-unstructured
 sentence-transformers
 faiss-cpu
 tiktoken
